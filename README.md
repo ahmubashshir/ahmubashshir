@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # Hi, Mubashshir here!
 
 ### I'm a bookworm, weeb and hobbyist dev!
