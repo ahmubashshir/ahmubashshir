@@ -20,6 +20,9 @@
 <br/>
 [![Mubashshir's github stats](https://github-readme-stats.vercel.app/api?theme=dark&username=ahmubashshir&count_private=true&show_icons=true "Mubashshir's github stats")](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [twitter]: https://twitter.com/ahmubashshir
 [kitsu]: https://kitsu.io/users/ahmubashshir
 [anilist]: https://anilist.co/user/ahmubashshir
