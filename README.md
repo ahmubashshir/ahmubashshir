@@ -21,6 +21,39 @@
 [![Mubashshir's github stats](https://github-readme-stats.vercel.app/api?theme=dark&username=ahmubashshir&count_private=true&show_icons=true "Mubashshir's github stats")](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+**🐱 My Github Data** 
+
+> 🏆 396 Contributions in the Year 2020
+ > 
+> 📦 6.7 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 27 Public Repositories
+ > 
+> 🔑 1 Private Repository 
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    9 hrs 52 mins       ███████████████████░░░░░░   75.64% 
+Bash                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.54% 
+YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.73% 
+Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.99% 
+JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29%
+
+🔥 Editors: 
+Zsh                      8 hrs 41 mins       ████████████████░░░░░░░░░   66.56% 
+Gedit                    4 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.14% 
+Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
+
+💻 Operating System: 
+Linux                    13 hrs 3 mins       █████████████████████████   100.0%
+
+```
+
+
 <!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/ahmubashshir
