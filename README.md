@@ -16,45 +16,10 @@
 <br />
 
 ### Statistics:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=ahmubashshir&layout=compact&hide=NSIS,HTML,CSS "Top Langs")](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&title_color=2EB398&bg_color=1B2224&text_color=C6CDCB&username=ahmubashshir&layout=compact&hide=NSIS,HTML,CSS "Top Langs")](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-[![Mubashshir's github stats](https://github-readme-stats.vercel.app/api?theme=dark&username=ahmubashshir&count_private=true&show_icons=true "Mubashshir's github stats")](https://github.com/anuraghazra/github-readme-stats)
-
-<!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 404 Contributions in the Year 2020
- > 
-> 📦 6.7 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 27 Public Repositories
- > 
-> 🔑 1 Private Repository 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    11 hrs 37 mins      ███████████████████░░░░░░   77.37% 
-Bash                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   7.43% 
-YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
-Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.34% 
-JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99%
-
-🔥 Editors: 
-Zsh                      10 hrs 12 mins      █████████████████░░░░░░░░   67.97% 
-Gedit                    4 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   31.32% 
-Vim                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
-
-💻 Operating System: 
-Linux                    15 hrs 1 min        █████████████████████████   100.0%
-
-```
-
-
-<!--END_SECTION:waka-->
+[![Mubashshir's github stats](https://github-readme-stats.vercel.app/api?theme=dark&title_color=2EB398&bg_color=1B2224&text_color=C6CDCB&username=ahmubashshir&count_private=true&show_icons=true "Mubashshir's github stats")](https://github.com/anuraghazra/github-readme-stats)
+[![Mubashshir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahmubashshir&theme=dark&title_color=2EB398&bg_color=1B2224&text_color=C6CDCB "Mubashshir's wakatime stats")](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/ahmubashshir
 [kitsu]: https://kitsu.io/users/ahmubashshir
