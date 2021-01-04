@@ -1,4 +1,4 @@
-### Hi, Mubashshir here!
+### Hi, I'm Mubashshir!
 
 - 📖 Bookworm 🐛
 - 🐧Linux Enthusiast
