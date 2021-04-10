@@ -4,6 +4,10 @@
 - 🐧Linux Enthusiast
 - ⚡ Fun fact: I use tabs over spaces
 
+<div align="center">
+	<img src="https://lastfm-recently-played.vercel.app/api?user=ahmubashshir&amp;count=4&amp;width=600" width="100%" />
+</div>
+
 ### My Skill Set
 <div align="center">
 	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
