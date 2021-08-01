@@ -4,12 +4,8 @@
 - 🐧Linux Enthusiast
 - ⚡ Fun fact: I use tabs over spaces
 
-<div align="center">
-	<img src="https://lastfm-recently-played.vercel.app/api?user=ahmubashshir&amp;count=4&amp;width=600" width="100%" />
-</div>
-
-### My Skill Set
-<div align="center">
+<details>	
+<summary><b>My skills</b></summary>
 	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
 	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
 	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
@@ -22,11 +18,10 @@
 	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
 	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
-</div>
+</details>
 
-### Connect with me
-
-<div align="center">
+<details>	
+<summary><b>Connect with me</b></summary>
 	<!-- github -->
 	<a style=" text-decoration: none;" href="https://github.com/ahmubashshir" target="_blank">
 		<img alt="github" src="https://img.shields.io/badge/github-%2324292e.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" style="margin-bottom: 5px;"/>
@@ -78,11 +73,16 @@
 	<a style=" text-decoration: none;" href="https://myanimelist.net/profile/ahmubashshir" target="_blank">
 		<img alt="myanimelist" src="https://img.shields.io/badge/myanimelist-%232A4D99.svg?&amp;style=for-the-badge&amp;logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjguNXB0IiBoZWlnaHQ9IjE5LjVwdCIgdmVyc2lvbj0iMS4wIiB2aWV3Qm94PSIwIDAgMjguNSAxOS41IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogPHBhdGggZD0ibTIyLjMwNyAwdjE3LjE4NWwyLjg1NzEtMC4wMTIwNiAyLjg2MDYtMC4wMTgwNSAwLjIzNTc1LTEuNjgzNmMwLjEzMDE5LTAuOTI1OTkgMC4yMzU3My0xLjczMTggMC4yMzkyNS0xLjc5MTkgMC0wLjA5NjIxLTAuMDczOTEtMC4xMDIxNy0xLjA2MjYtMC4xMDIxNy0wLjU4NzU5IDAtMS40MTA5LTAuMDE4MDQtMS44Mjk2LTAuMDQyMWwtMC43NjcwMy0wLjAzNjEydi0xMy4zNzlsLTAuMzU4ODgtMC4wMzYxMTNjLTAuMjAwNTYtMC4wMTgwMzktMC43NzA1Ni0wLjA0MjAzMi0xLjI2NjctMC4wNjAwNzF6bS0zLjk0MzQgMC4wMTc5NjljLTAuMzk5MjEgNS40MTE1ZS00IC0wLjc2MjU2IDAuMDA5ODI5NC0wLjkxNTYyIDAuMDMwMTIzLTIuMTM5MyAwLjI3MDU4LTMuNjc2OSAxLjI0NDctNC42Nzk2IDIuOTUyNC0wLjc4MTExIDEuMzM0OS0xLjE5NjMgMy4wMTg0LTEuMzA1NCA1LjI5MTMtMC4xMzM3IDIuNzg0IDAuMzY1OTcgNi40NTE5IDEuNDAwNCAxMC4zMDYgMC4xMzAxOSAwLjQ4MTA0IDAuMjQ2MjcgMC44ODM5IDAuMjU2ODMgMC45MDE5NCAwLjAxNzYgMC4wMTIwMiAxLjkzNTItMi4wNzQ0IDIuMDMzNy0yLjIxODcgMC4wMDM2LTZlLTMgLTAuMDU5NzktMC4xNjgzNC0wLjEzNzE5LTAuMzY2NzctMC40NTAzOC0xLjEzMDQtMC43ODQ2My0yLjg4NjMtMS4wMzA5LTUuMzk5N2wtMC4wMTQwNy0wLjE2MjMzaDMuMzc0MnY1LjgzMjZoMS4zNjg3YzAuODg2NjcgMCAxLjM3OTMtMC4wMjQwOSAxLjM5MzQtMC4wNjAxNSAwLjAxNDE4LTAuMDM2MDggMC4wMTA1Ny0yLjkyODMtMC4wMDM2LTYuNDMzOGwtMC4wMjQ2LTYuMzczOGgtMi43MjM0bC0wLjAyODEzIDEuODQ2Yy0wLjAxNDE4IDEuMDIyMi0wLjAyODEzIDEuODUyLTAuMDI4MTMgMS44NTItMC4wMDM2IDAuMDA2MDEtMC43MDcyNC0wLjAxMTk5Ni0xLjU2NTgtMC4wMzAwMzYtMS43MzQ2LTAuMDM2MDgyLTEuNjM5Ni0wLjAwNjAyLTEuNjA0NC0wLjQ1MDk4IDAuMDI4MTQtMC4yOTQ2MyAwLjE5MzQ5LTEuMTM2NSAwLjI5OTA0LTEuNDg1MiAwLjI5NTU2LTAuOTg2MTMgMC43NTY0OC0xLjcxOTcgMS4zNDc2LTIuMTE2NiAwLjQ3ODUyLTAuMzI0NyAwLjU0MTg3LTAuMzM2NzMgMi43MjY5LTAuMzM2NzNoMi4wMTYybC0wLjAxNzU3NS0wLjEzMjNjLTAuMTIzMTYtMC43OTk3Mi0wLjYxNTc4LTMuMzYxMi0wLjY1MDk3LTMuMzg1My0wLjA1NzE3OC0wLjAzNzU4LTAuODIyMTYtMC4wNjEwNC0xLjQ4NzUtMC4wNjAxNTh6bS0xOC4zNjQgMC4wOTAxOTR2MTcuMDc3aDIuNTMzM3YtNS4zMjE1YzAtMi45MjgzIDAuMDEwNTU3LTUuMzIxNSAwLjAyODE0LTUuMzE1NSAwLjAxNzU5MyAwIDIuMDE5NiA0LjE5MTEgMi4yOTc2IDQuODE2NCAwLjA1NjI5NiAwLjEyMDI2IDAuMDkxNDYxIDAuMDU0MDggMS4yNDU1LTIuMjkxIDAuNjU0NDQtMS4zMjI5IDEuMTk5OC0yLjQxMTIgMS4yMTA0LTIuNDExMiAwLjAxMDU2OSAwIDAuMDIxMTMgMi4zNjMxIDAuMDIxMTMgNS4yNDMzdjUuMjQ5MmwxLjI0MiAwLjAxODA1IDEuMjM4NSAwLjAxMjA2di0xNy4wNzdoLTIuNTYxNWwtMS4yMDM0IDIuNTkxNmMtMC42NjE0OCAxLjQxOTEtMS4yMTM4IDIuNTczNi0xLjIyNDQgMi41NTU2LTAuMDEwNTU1LTAuMDI0MDUyLTAuNTEzNzMtMS4xNzg2LTEuMTE1NC0yLjU3MzZsLTEuMDk3OC0yLjU0MzQtMS4zMDU0LTAuMDE4MDU2eiIgZmlsbD0iI2ZmZiIvPgo8L3N2Zz4K&amp;logoColor=white" style="margin-bottom: 5px;"/>
 	</a>
-</div>
+</details>
 
-### Github Stats
+<details>	
+<summary><b>Github Stats</b></summary>
+	<img src="https://github-readme-stats.vercel.app/api?theme=github_dark&amp;title_color=2EB398&amp;username=ahmubashshir&amp;count_private=true&amp;show_icons=true" width="100%"/>
+	<img alt="github-alt" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmubashshir&amp;theme=github_dark" width="100%"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmubashshir&theme=github_dark" alt="ahmubashshir" width="100%"/>
+</details>
 
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?theme=dark&amp;title_color=2EB398&amp;bg_color=1B2224&amp;text_color=C6CDCB&amp;username=ahmubashshir&amp;count_private=true&amp;show_icons=true" />
-</div>
-
+<details>	
+<summary><b>Last.FM</b></summary>
+	<img src="https://lastfm-recently-played.vercel.app/api?user=ahmubashshir&amp;count=4&amp;width=600"  />
+</details>
