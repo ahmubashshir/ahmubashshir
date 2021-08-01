@@ -4,6 +4,7 @@
 - 🐧Linux Enthusiast
 - ⚡ Fun fact: I use tabs over spaces
 
+<img alt="snake" src="https://raw.githubusercontent.com/ahmubashshir/ahmubashshir/output/github-contribution-grid-snake.svg"  width="90%" />
 <details>	
 <summary><b>My skills</b></summary>
 	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
