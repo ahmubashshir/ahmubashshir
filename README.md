@@ -78,9 +78,9 @@
 
 <details>	
 <summary><b>Github Stats</b></summary>
-	<img alt="ahmubashshir/stats" src="https://github-readme-stats.vercel.app/api?theme=github_dark&amp;title_color=2EB398&amp;username=ahmubashshir&amp;count_private=true&amp;show_icons=true" width="100%"/>
-	<img alt="ahmubashshir/graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmubashshir&amp;theme=github_dark" width="100%"/>
-	<img alt="ahmubashshir/streak" src="https://github-readme-streak-stats.herokuapp.com?user=ahmubashshir&amp;theme=dark&amp;hide_border=true&amp;background=1B2224&amp;stroke=718F97&amp;ring=2EB398&amp;fire=2EB398&amp;currStreakNum=C6CDCB&amp;sideNums=C6CDCB&amp;currStreakLabel=2EB398&amp;sideLabels=C6CDCB" width="100%"/>
+	<img alt="ahmubashshir/stats" src="https://github-readme-stats.vercel.app/api?theme=github_dark&amp;title_color=2EB398&amp;username=ahmubashshir&amp;count_private=true&amp;show_icons=true"/>
+	<img alt="ahmubashshir/graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmubashshir&amp;theme=github_dark"/>
+	<img alt="ahmubashshir/streak" src="https://github-readme-streak-stats.herokuapp.com?user=ahmubashshir&amp;theme=dark&amp;hide_border=true&amp;background=1B2224&amp;stroke=718F97&amp;ring=2EB398&amp;fire=2EB398&amp;currStreakNum=C6CDCB&amp;sideNums=C6CDCB&amp;currStreakLabel=2EB398&amp;sideLabels=C6CDCB"/>
 </details>
 
 <details>	
