@@ -4,9 +4,9 @@
 - 🐧Linux Enthusiast
 - ⚡ Fun fact: I use tabs over spaces
 
-<img alt="snake" src="https://raw.githubusercontent.com/ahmubashshir/ahmubashshir/output/github-contribution-grid-snake.svg"  width="100%" />
-![GitHub Snake Light](./raw/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
-![GitHub Snake !dark](./raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![GitHub Snake Light](../../raw/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
+![GitHub Snake dark](../../raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
 <details>	
 <summary><b>My skills</b></summary>
 	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
